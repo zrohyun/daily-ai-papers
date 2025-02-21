@@ -3,7 +3,7 @@
 <table style="border: none; border-collapse: collapse;">
 <tr style="border: none;">
 <td style="border: none;">
-<img src="https://img.shields.io/badge/Last%20Updated-2025--02--20 
+<img src="https://img.shields.io/badge/Last%20Updated-2025--02--21 
  
 -brightgreen" alt="Last Updated"> <a href="https://t.me/daily_ai_papers"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-blue?style=flat-square&logo=telegram" alt="Telegram"></a> <a href="https://gabrielchua.me/daily-ai-papers/"><img src="https://img.shields.io/badge/Website-Visit%20Daily%20AI%20Papers-blue?style=flat-square&logo=github" alt="Website"></a> <br><br>
 Summaries auto-generated from <a href="https://huggingface.co/papers">HuggingFace's Daily Papers</a> using Gemini and GitHub Actions. All credits go to the research and HuggingFace communities.<br><br>
@@ -15,6 +15,12 @@ Note: Authors may be listed by their HuggingFace IDs. Additionally, summaries ar
 </td>
 </tr>
 </table>
+
+
+## Papers for 2025-02-21
+
+| Category | Title | Authors | Summary |
+|----------|-------|---------|---------|
 
 
 ## Papers for 2025-02-20
